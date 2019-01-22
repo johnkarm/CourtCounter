@@ -6,4 +6,4 @@ After being fortunate enought to win be a part of the Grow With Google Scholarsh
 and take a Udacity course on Android App Development, I made this simple App to practice
 basic Java and XML in my free time.
 
-![Alt text]CourtCounter/CourtCounterPng.png "Optional Title")
+![](CourtCounter/CourtCounterPng.png)
